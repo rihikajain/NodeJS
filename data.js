@@ -125,7 +125,6 @@ const data=[
 data.map((dish)=>{
     console.log(`ID:${dish.id}`);
     console.log(`Image:${dish.img}`);
-    
     console.log(`Title:${dish.title}`);
     console.log(`Description:${dish.desc}`);
     console.log("-------------------------");
